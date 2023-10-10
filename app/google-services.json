@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49070151696",
+    "project_id": "enhanced-ecommerce-dfd96",
+    "storage_bucket": "enhanced-ecommerce-dfd96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49070151696:android:013f576c6445c2226d5295",
+        "android_client_info": {
+          "package_name": "com.example.enhancedecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49070151696-nrokbfpbdk5mhsnir2li24equ15t6k4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5WsRuVXx3bqj7o3HGnvzgrDm-tLg3I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49070151696-nrokbfpbdk5mhsnir2li24equ15t6k4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
